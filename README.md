@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Dương Lý Cử, MSSV: 223650.
+Đây là README từ nhánh main.
